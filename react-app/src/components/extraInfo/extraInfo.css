@@ -1,0 +1,6 @@
+.grid {
+  position: absolute;
+  margin-top: 950px;
+  display: grid;
+  grid-template-columns: 450px 450px 450px 500px;
+}

@@ -1,0 +1,68 @@
+.parisForecast {
+  position: relative;
+}
+
+.paris-weather-icon {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 45px;
+}
+
+.celcius {
+  font-weight: normal;
+}
+
+.parisTemperature {
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 200px;
+}
+
+.cityName {
+  position: absolute;
+  margin-top: 55px;
+  margin-left: 365px;
+}
+
+.cityCountry {
+  position: absolute;
+  margin-top: 105px;
+  margin-left: 365px;
+  font-weight: normal;
+}
+
+.cityHumidity {
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 60px;
+  font-weight: normal;
+}
+
+.cityWindDirection {
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 260px;
+  font-weight: normal;
+}
+
+.cityWindSpeed {
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 365px;
+  font-weight: normal;
+}
+
+.addLocationsText {
+  position: absolute;
+  margin-left: 190px;
+  margin-top: 85px;
+  color: rgb(49, 50, 140);
+}
+
+.addLocation-icon {
+  position: absolute;
+  max-width: 230px;
+  height: auto;
+  margin-top: 145px;
+  margin-left: 150px;
+}

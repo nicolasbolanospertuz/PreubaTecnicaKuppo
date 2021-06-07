@@ -1,0 +1,72 @@
+.Banner {
+  position: relative;
+}
+
+img {
+  border-radius: 40px;
+}
+
+.BogotaImage {
+  width: 95%;
+  height: auto;
+}
+
+.BogotaPicture {
+  margin-left: 5%;
+  margin-top: 1.5%;
+  position: absolute;
+}
+
+.topleft {
+  position: absolute;
+  top: 70px;
+  left: 10px;
+  display: grid;
+  grid-template-columns: 100px 1000px;
+  grid-template-rows: 100px;
+}
+
+.locationIcon {
+  max-width: 100%;
+  height: auto;
+  margin-left: 10%;
+}
+
+.bogotaTitle {
+  text-align: left;
+  margin-top: 1%;
+  color: rgb(49, 50, 140);
+  font-family: Arial Black;
+  text-shadow: -1px 0 rgb(127, 104, 231),
+    0 1px rgb(127, 104, 231) 1px 0 rgb(127, 104, 231), 0 -1px rgb(127, 104, 231);
+}
+
+.BannerWeatherState {
+  position: absolute;
+  margin-top: 200px;
+}
+
+.BannerTemperature {
+  position: absolute;
+  margin-top: 380px;
+}
+
+.city-icon {
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 50px;
+}
+
+.city-weather {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 72px;
+  color: white;
+}
+
+.city-temp {
+  position: absolute;
+  margin-top: 510px;
+  margin-left: 72px;
+  color: white;
+}

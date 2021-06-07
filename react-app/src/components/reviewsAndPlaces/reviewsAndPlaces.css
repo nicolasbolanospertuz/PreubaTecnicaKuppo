@@ -1,0 +1,90 @@
+.reviews {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 180px 55px 55px 55px 55px;
+  grid-template-rows: 50px;
+}
+
+.topReviews {
+  color: rgb(201, 201, 201);
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.profile1,
+.profile2,
+.profile3,
+.reviewsIcon {
+  max-width: 90%;
+  height: auto;
+}
+
+.monserrateImage {
+  margin-top: 40px;
+  max-width: 95%;
+  height: auto;
+  position: relative;
+  margin-left: 10px;
+}
+
+.locationMonserrateIcon {
+  position: absolute;
+  max-width: 5%;
+  height: auto;
+  margin-left: 900px;
+  margin-top: 75px;
+}
+
+.monserrateTitle {
+  position: absolute;
+  margin-left: 950px;
+  margin-top: 70px;
+  color: white;
+}
+
+.monserrateLocation {
+  position: absolute;
+  margin-left: 950px;
+  margin-top: 90px;
+  color: white;
+}
+
+.laCandelariaImage {
+  margin-top: 40px;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.locationLaCandelariaIcon {
+  position: absolute;
+  max-width: 5%;
+  height: auto;
+  margin-left: 900px;
+  margin-top: 245px;
+}
+
+.laCandelariaTitle {
+  position: absolute;
+  margin-left: 950px;
+  margin-top: 240px;
+  color: white;
+}
+
+.laCandelariaLocation {
+  position: absolute;
+  margin-left: 950px;
+  margin-top: 260px;
+  color: white;
+}
+
+.plusShape {
+  margin-left: 1130px;
+  margin-top: 200px;
+}
+
+.plusText {
+  margin-left: 1182px;
+  margin-top: 335px;
+  color: white;
+}
